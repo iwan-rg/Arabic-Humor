@@ -3,7 +3,7 @@ Humor detection is a complex and ambiguous task in natural language processing. 
 
 
 ## File Specifications
-- [humor.tsv](https://github.com/iwan-rg/) : File that contains tweets with two labels, "humor" and "non-humor"
+- [humor.tsv](https://github.com/iwan-rg/Arabic-Humor/blob/main/humor.tsv) : File that contains tweets with two labels, "humor" and "non-humor"
 
 ## Citation
 If you use this dataset please cite as:
