@@ -11,7 +11,7 @@ If you use this dataset please cite as:
 @inproceedings{[Al-Khalifa et al., 2022],
   title={A Dataset for Detecting Humor in Arabic Text},
   author={Hend Al-Khalifa, Fetoun AlZahrani, Hala Qawara, Reema AlRowais, Sawsan Alowa  and Luluh AlDhubayi},
-  booktitle={Submitted},
+  booktitle={The 5th International Conference on Natural Language and Speech Processing (ICNLSP 2022)},
   year={2022}
 }
 ```
